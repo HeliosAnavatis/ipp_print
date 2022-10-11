@@ -1,0 +1,15 @@
+{
+	"name": "ipp_docker_app",
+	"version": "1.0.0",
+	"description": "Print to IPP Printer",
+	"author": "John Wells <john@element2.net",
+	"main": "main.js",
+	"scripts": {
+		"start": "node main.js"
+	},
+	"dependencies": {
+		"formidable": "*",
+		"ipp": "*",
+		"concat-stream": "*"
+	}
+}
