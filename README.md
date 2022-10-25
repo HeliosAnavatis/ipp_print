@@ -30,7 +30,7 @@ The idea is to have a simple web server which allows upload of a PDF file, which
 * [![IPP][IPP]][IPP-url] [NPM IPP Package][IPP-url]
 
 ## TO DOs:
-- [ ] Orchestrate my server better - set this up wih docker-compose :vertical_traffic_light: FTW
+- [x] Orchestrate my server better - set this up wih docker-compose :vertical_traffic_light: FTW
 - [ ] Don't hardcode the port in main.js :shrug:
 - [ ] Sanity check the inputs :closed_lock_with_key: (yes, yes, I know - this is quick, dirty and only used on my internal network)
 - [ ] Improve the UI.  'Basic' is an understatement! Some ideas:
